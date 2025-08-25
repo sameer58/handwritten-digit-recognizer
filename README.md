@@ -37,6 +37,9 @@ handwritten-digit-recognizer/
 
 │── models/               # Saved trained model (.h5 or .keras)
 
+⚠️ The trained model file (mnist_model.h5) is large, so it’s not included in this repo. You can download it from [https://drive.google.com/file/d/1PqHXYMxR99ZppFoMaRsTomYaFuwzzWqZ/view?usp=sharing].
+
+
 │── static/               # (Optional) CSS, JS, images for web app
 
 │── templates/            # (Optional) HTML templates for Flask
