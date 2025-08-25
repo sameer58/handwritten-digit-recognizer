@@ -52,6 +52,10 @@ handwritten-digit-recognizer/
 
 │── README.md             # Project documentation
 
+if you want to download all files with proper file structure then download  here
+
+[https://drive.google.com/drive/folders/13aE65s-40tsgLpCWHu9AVHiJ90Rw8x5L?usp=sharing]
+
 
 📌 Future Improvements:
 
